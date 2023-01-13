@@ -1,0 +1,45 @@
+*{
+    font-family: 'Source Code Pro' monospace;
+    --fonts: 'Josefin Sans', sans-serif;
+}
+
+body{
+    background-color: black;
+}
+
+#orderAZ{
+    border-radius: 20px;
+    padding: 10px;
+    background-color: rgb(173, 212, 114);
+    font-size: 14px;
+}
+
+#farmacy{
+    border-radius: 20px;
+    padding: 10px;
+    background-color: rgb(173, 212, 114);
+    font-size: 14x;
+} 
+
+#comuna{
+    border-radius: 20px;
+    padding: 10px; 
+    background-color: rgb(173, 212, 114);
+    font-size: 14px;
+} 
+
+
+#direccion{
+    border-radius: 20px;
+    padding: 10px;
+    background-color:  rgb(173, 212, 114);
+    font-size: 14px;
+}
+
+
+#telefono{
+    border-radius: 20px;
+    padding: 10px;
+    background-color:  rgb(173, 212, 114);
+    font-size: 13px;
+}
